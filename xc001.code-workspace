@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "xc001",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"system_error": "cpp",
+			"array": "cpp",
+			"functional": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp"
+		}
+	}
+}
